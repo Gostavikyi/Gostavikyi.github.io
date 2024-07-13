@@ -259,7 +259,11 @@ const default_config = {
               icon_color: "#6D7070",
             },
 
-            {name: "Priv Megatrd",  url: "https://www.reddit.com/r/Piracy/wiki/megathread/",  icon: "brand-steam",
+            {name: "Fmhy",  url: "https://fmhy.net/",  icon: "arrow-merge-alt-left",
+              icon_color: "#ddb839", },
+   
+
+            {name: "",  url: "https://www.reddit.com/r/Piracy/wiki/megathread/",  icon: "align-left",
               icon_color: "#ddb839", },
    
 
