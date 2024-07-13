@@ -234,7 +234,7 @@ const default_config = {
             },
             {
               name: "MN",
-              url: "https://github.com/",
+              url: "https://github.com/nmnhost/nmnhost.github.io/edit/master/Movie/index.html",
               icon: "home-cog",
               icon_color: "#6D7070",
             },
