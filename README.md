@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/img/README-decorator.png" width=300/><br/>
+    <img src="[x](https://files.catbox.moe/zhsh3b.gif)" width=300/><br/>
     <a href="https://github.com/AllJavi/tartarus-startpage/stargazers">
         <img src="https://img.shields.io/github/stars/AllJavi/tartarus-startpage?color=a9b665&style=for-the-badge&logo=starship">
     </a>
