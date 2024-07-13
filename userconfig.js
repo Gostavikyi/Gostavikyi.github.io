@@ -254,7 +254,7 @@ const default_config = {
             },
             {
               name: "NHB",
-              url: "pastelinkhere",
+              url: "https://github.com/Gostavikyi/Gostavikyi.github.io/edit/master/userconfig.js",
               icon: "home-cog",
               icon_color: "#6D7070",
             },
