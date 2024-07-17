@@ -194,7 +194,7 @@ const default_config = {
               icon_color: "#D82051" },
             {name: "cimcartoon",  url: "https://kimcartoon.li/",  icon: "mickey",
               icon_color: "#969696", },
-            {name: "fmobies",  url: "https://fmovies24.to/",   icon: "video",
+            {name: "fmobies",  url: "netmovies.to",   icon: "video",
               icon_color: "#130F10",},
   
             {name: "bingged",  url: "https://binged.in/",   icon: "video",
