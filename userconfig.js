@@ -129,6 +129,16 @@ const default_config = {
               icon: "chart-area",
               icon_color: "#7daea3",
             },
+
+            {
+              name: "cara",
+              url: "https://cara.app/sovanjedi",
+              icon: "brand-craft",
+              icon_color: "#7daea3",
+            },
+
+
+
             {
               name: "krea ai",
               url: "https://www.krea.ai/apps/image/realtime",
@@ -156,7 +166,7 @@ const default_config = {
             },
             {
               name: "soundcloud",
-              url: "https://uxpro.cc/",
+              url: "https://soundcloud.com/",
               icon: "brand-soundcloud",
               icon_color: "#d8a07c",
             },
@@ -259,7 +269,7 @@ const default_config = {
               icon_color: "#6D7070",
             },
 
-            {name: "Fmhy",  url: "https://fmhy.net/",  icon: "arrow-merge-alt-left",
+            {name: "Fmhy",  url: "https://fmhy.net/",  icon: "sword",
               icon_color: "#ddb839", },
    
 
