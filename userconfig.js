@@ -192,9 +192,9 @@ const default_config = {
 
             {name: "aniwav",  url: "https://aniwave.to/home", icon: "ripple",
               icon_color: "#D82051" },
-            {name: "cimcartoon",  url: "https://kimcartoon.li/",  icon: "mickey",
+            {name: "cimcartoon",  url: "https://kimcartoon.si",  icon: "mickey",
               icon_color: "#969696", },
-            {name: "fmobies",  url: "netmovies.to",   icon: "video",
+            {name: "fmobies",  url: "https://netmovies.to",   icon: "video",
               icon_color: "#130F10",},
   
             {name: "bingged",  url: "https://binged.in/",   icon: "video",
