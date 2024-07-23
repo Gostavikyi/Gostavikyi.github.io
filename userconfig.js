@@ -78,6 +78,15 @@ const default_config = {
             icon_color: "#99858B",
           },
 
+      {
+            name: "!sc",
+            url: "https://web.snapchat.com",
+            icon: "brand-snapchat",
+            icon_color: "#99858B",
+          },
+
+
+
 
 
         ],
