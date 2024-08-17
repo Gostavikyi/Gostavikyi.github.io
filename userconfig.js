@@ -199,14 +199,19 @@ const default_config = {
           links: [
             
 
-            {name: "aniwav",  url: "https://aniwave.to/home", icon: "ripple",
+            {name: "1anime",  url: "https://app.1anime.co/", icon: "ripple",  
               icon_color: "#D82051" },
-            {name: "cimcartoon",  url: "https://kimcartoon.si",  icon: "mickey",
+            {name: "krimcartoon",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
               icon_color: "#969696", },
-            {name: "fmobies",  url: "https://netmovies.to",   icon: "video",
+            {name: "fboxz",  url: "https://fboxz.to/home",   icon: "video",
+              icon_color: "#130F10",},
+                        {name: "Noxx",  url: "https://noxx.to/",   icon: "pill",
               icon_color: "#130F10",},
   
+  
             {name: "bingged",  url: "https://binged.in/",   icon: "video",
+              icon_color: "#554CA8",},
+                    {name: "IPTV",  url: "https://iptv-web.app/US/#WYFFDT1.us",   icon: "tv",
               icon_color: "#554CA8",},
             {name: "netflix",  url: "https://www.netflix.com/",  icon: "brand-netflix",
               icon_color: "#d75e40", },
