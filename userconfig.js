@@ -201,12 +201,16 @@ const default_config = {
 
             {name: "1anime",  url: "https://app.1anime.co/", icon: "ripple",  
               icon_color: "#D82051" },
+            {name: "anix",  url: "https://anix.to/", icon: "wave",  
+              icon_color: "#D02451" },
+
+            
             {name: "krimcartoon",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
               icon_color: "#969696", },
             {name: "fboxz",  url: "https://fboxz.to/home",   icon: "video",
               icon_color: "#130F10",},
                         {name: "Noxx",  url: "https://noxx.to/",   icon: "pill",
-              icon_color: "#130F10",},
+              icon_color: "#199F10",},
   
   
             {name: "bingged",  url: "https://binged.in/",   icon: "video",
