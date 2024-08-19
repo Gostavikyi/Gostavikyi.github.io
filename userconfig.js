@@ -305,6 +305,13 @@ const default_config = {
    
         
             {
+              name: "",
+              url: "https://rentry.org/vzght9na",
+              icon: "notebook",
+              icon_color: "#ea6962",
+            },
+
+            {
               name: "colorhunt",
               url: "https://colorhunt.co/",
               icon: "color-picker",
