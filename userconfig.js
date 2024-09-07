@@ -44,20 +44,40 @@ const default_config = {
           },
           {name: "p",  url: "https://www.tiktok.com/profile", },
           {name: "v",  url: "https://www.tiktok.com/live?lang=en", },
+
+
+          {
+            name: "!bs",
+            url: "https://bsky.app/",
+            icon: "butterfly",
+            icon_color: "#7daea3",
+          },
+
+          
           {
             name: "!tw",
             url: "https://twitter.com/home",
             icon: "brand-twitter-filled",
             icon_color: "#7daea3",
           },
-  
+
 
           {
-            name: "!bs",
-            url: "https://bsky.app/",
-            icon: "butterfly",
+            name: "!ig",
+            url: "https://www.instagram.com/",
+            icon: "brand-instagram",
+            icon_color: "#99858B",
+          },
+
+
+          {
+            name: "!re",
+            url: "https://www.reddit.com/",
+            icon: "brand-reddit",
             icon_color: "#e78a4e",
           },
+
+          
           {
             name: "!yt",
             url: "https://www.youtube.com/",
@@ -71,12 +91,6 @@ const default_config = {
             icon_color: "#d3869b",
           },
 
-          {
-            name: "!ig",
-            url: "https://www.instagram.com/",
-            icon: "brand-instagram",
-            icon_color: "#99858B",
-          },
 
       {
             name: "!sc",
@@ -141,7 +155,7 @@ const default_config = {
 
             {
               name: "cara",
-              url: "https://cara.app/sovanjedi",
+              url: "https://cara.app/",
               icon: "brand-craft",
               icon_color: "#7daea3",
             },
