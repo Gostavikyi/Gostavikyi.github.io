@@ -61,6 +61,13 @@ const default_config = {
             icon_color: "#7daea3",
           },
 
+         {
+            name: "!sc",
+            url: "https://web.snapchat.com",
+            icon: "brand-snapchat",
+            icon_color: "#99858B",
+          },
+
 
           {
             name: "!ig",
@@ -92,14 +99,7 @@ const default_config = {
           },
 
 
-      {
-            name: "!sc",
-            url: "https://web.snapchat.com",
-            icon: "brand-snapchat",
-            icon_color: "#99858B",
-          },
-
-
+        
 
 
 
@@ -205,7 +205,22 @@ const default_config = {
               icon: "brand-adobe",
               icon_color: "#7daea3",
             },
-      
+
+            {
+              name: "lastfm",
+              url: "https://www.last.fm/home/",
+              icon: "device-audio-tape",
+              icon_color: "#2daea3",
+            },
+
+
+
+
+
+
+
+
+            
           ],
         },
         {
@@ -215,7 +230,7 @@ const default_config = {
 
             {name: "1anime",  url: "https://app.1anime.co/", icon: "ripple",  
               icon_color: "#D82051" },
-            {name: "anix",  url: "https://hianime.to/home", icon: "wave",  
+            {name: "anix",  url: "https://hianime.to/home", icon: "building-carousel",  
               icon_color: "#D02451" },
 
             
@@ -227,9 +242,9 @@ const default_config = {
               icon_color: "#199F10",},
   
   
-            {name: "braflix",  url: "https://www.braflix.ru",   icon: "video",
+            {name: "braflix",  url: "https://www.braflix.ru",   icon: "device-tv",
               icon_color: "#554CA8",},
-                    {name: "IPTV",  url: "https://iptv-web.app/US/#WYFFDT1.us",   icon: "tv",
+                    {name: "IPTV",  url: "https://iptv-web.app/US/#WYFFDT1.us",   icon: "device-tv",
               icon_color: "#554CA8",},
             {name: "netflix",  url: "https://www.netflix.com/",  icon: "brand-netflix",
               icon_color: "#d75e40", },
@@ -298,9 +313,6 @@ const default_config = {
         {
           name: "Other",
           links: [
-   
-        
-       
 
             {
               name: "colorhunt",
