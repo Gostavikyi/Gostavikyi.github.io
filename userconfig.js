@@ -221,13 +221,13 @@ const default_config = {
             
             {name: "krimcartoon",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
               icon_color: "#969696", },
-            {name: "fboxz",  url: "https://cinemadeck.com",   icon: "video",
+            {name: "Streamfix",  url: "https://watch.streamflix.one/",   icon: "video",
               icon_color: "#130F10",},
                         {name: "Noxx",  url: "https://noxx.to/",   icon: "pill",
               icon_color: "#199F10",},
   
   
-            {name: "bingged",  url: "https://binged.in/",   icon: "video",
+            {name: "braflix",  url: "https://www.braflix.ru",   icon: "video",
               icon_color: "#554CA8",},
                     {name: "IPTV",  url: "https://iptv-web.app/US/#WYFFDT1.us",   icon: "tv",
               icon_color: "#554CA8",},
@@ -251,11 +251,18 @@ const default_config = {
         {
           name: "Games",
           links: [
+
+                 {
+              name: "",
+              url: "https://rentry.org/vzght9na",
+              icon: "notebook",
+              icon_color: "#ea6962",
+            },
             
             {name: "steamdb",  url: "https://steamdb.info/",  icon: "brand-steam",
               icon_color: "#777674", },
    
-              {name: "steamchrt",  url: "https://steamcharts.com/",  icon: "brand-steam",
+              {name: "steamchart",  url: "https://steamcharts.com/",  icon: "brand-steam",
                 icon_color: "#546B54", },
 
                 {name: "prime stuff",  url: "https://gaming.amazon.com/home",  icon: "ironing-steam",
@@ -268,46 +275,21 @@ const default_config = {
         {
           name: "resources",
           links: [
+
+                  {name: "Fmhy",  url: "https://fmhy.net/",  icon: "sword",
+              icon_color: "#ddb839", },
+            
+            {name: "",  url: "https://www.reddit.com/r/Piracy/wiki/megathread/",  icon: "align-left",
+              icon_color: "#ddb839", },
+   
+   
             {
               name: "github",
               url: "https://github.com/",
               icon: "brand-github",
               icon_color: "#7daea3",
             },
-            {
-              name: "MN",
-              url: "https://github.com/nmnhost/nmnhost.github.io/edit/master/Movie/index.html",
-              icon: "home-cog",
-              icon_color: "#6D7070",
-            },
      
-            {
-              name: "gitlab",
-              url: "https://gitlab.com/",
-              icon: "brand-gitlab",
-              icon_color: "#e78a4e",
-            },
-
-            {
-              name: "OHB",
-              url: "https://gitlab.com/Gostavikyi/Home/-/blob/master/index.html?ref_type=heads",
-              icon: "home-cog",
-              icon_color: "#6D7070",
-            },
-            {
-              name: "NHB",
-              url: "https://github.com/Gostavikyi/Gostavikyi.github.io/edit/master/userconfig.js",
-              icon: "home-cog",
-              icon_color: "#6D7070",
-            },
-
-            {name: "Fmhy",  url: "https://fmhy.net/",  icon: "sword",
-              icon_color: "#ddb839", },
-   
-
-            {name: "",  url: "https://www.reddit.com/r/Piracy/wiki/megathread/",  icon: "align-left",
-              icon_color: "#ddb839", },
-   
 
             
      
@@ -318,12 +300,7 @@ const default_config = {
           links: [
    
         
-            {
-              name: "",
-              url: "https://rentry.org/vzght9na",
-              icon: "notebook",
-              icon_color: "#ea6962",
-            },
+       
 
             {
               name: "colorhunt",
@@ -333,7 +310,7 @@ const default_config = {
             },
 
             {
-              name: "tmlsexy",
+              name: "tmlsxy",
               url: "https://terminal.sexy",
               icon: "prompt",
               icon_color: "#e78a4e",
