@@ -230,7 +230,7 @@ const default_config = {
 
             {name: "Miruro",  url: "https://www.miruro.online/", icon: "ripple",  
               icon_color: "#D82051" },
-            {name: "[//]",  url: "https://everythingmoe.com/", icon: "building-carousel",  
+            {name: "⚡",  url: "https://everythingmoe.com/", icon: "building-carousel",  
               icon_color: "#D02451" },
 
             {name: "krimcartoon",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
@@ -398,14 +398,7 @@ const default_config = {
             },
 
 
-            {
-              name: "cobalt,
-              url: "https://cobalt.tools/",
-              icon: "download",
-              icon_color: "#f24912",
-            },
-
-
+    
 
 
 
@@ -438,6 +431,14 @@ const default_config = {
               icon: "cat",
               icon_color: "#ea6962",
             },
+            {
+              name: "cobalt,
+              url: "https://cobalt.tools/",
+              icon: "download",
+              icon_color: "#f24912",
+            },
+
+
 
           ],
         },
