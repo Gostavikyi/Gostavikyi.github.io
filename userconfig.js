@@ -213,14 +213,6 @@ const default_config = {
               icon_color: "#2daea3",
             },
 
-
-
-
-
-
-
-
-            
           ],
         },
         {
@@ -228,9 +220,9 @@ const default_config = {
           links: [
             
 
-            {name: "Miruro",  url: "https://www.miruro.online/", icon: "ripple",  
+            {name: "miruro",  url: "https://www.miruro.online/", icon: "ripple",  
               icon_color: "#D82051" },
-            {name: "⚡",  url: "https://everythingmoe.com/", icon: "building-carousel",  
+            {name: "V2",  url: "https://everythingmoe.com/", icon: "building-carousel",  
               icon_color: "#D02451" },
 
             {name: "krimcartoon",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
@@ -241,16 +233,14 @@ const default_config = {
             
 
 
-            {name: "Freek🎬",  url: "https://freek.to/",   icon: "video",
+            {name: "freek",  url: "https://freek.to/",   icon: "video",
               icon_color: "#130F10",},
                  {name: "braflix",  url: "https://www.braflix.ru",   icon: "device-tv",
               icon_color: "#554CA8",},
-                        {name: "Noxx📺",  url: "https://noxx.to/",   icon: "pill",
+                        {name: "Noxx",  url: "https://noxx.to/",   icon: "pill",
               icon_color: "#199F10",},
-  
-  
        
-                    {name: "IPTV",  url: "https://iptv-web.app/US/#WYFFDT1.us",   icon: "device-tv",
+            {name: "IPTV",  url: "https://iptv-web.app/US/#WYFFDT1.us",   icon: "device-tv",
               icon_color: "#554CA8",},
 
             {name: "plex",  url: "https://app.plex.tv/desktop/#!/",  icon: "topology-complex",
