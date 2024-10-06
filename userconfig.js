@@ -228,26 +228,31 @@ const default_config = {
           links: [
             
 
-            {name: "1anime",  url: "https://app.1anime.co/", icon: "ripple",  
+            {name: "Miruro",  url: "https://www.miruro.online/", icon: "ripple",  
               icon_color: "#D82051" },
-            {name: "anix",  url: "https://hianime.to/home", icon: "building-carousel",  
+            {name: "[//]",  url: "https://everythingmoe.com/", icon: "building-carousel",  
               icon_color: "#D02451" },
 
-            
             {name: "krimcartoon",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
               icon_color: "#969696", },
-            {name: "Streamfix",  url: "https://watch.streamflix.one/",   icon: "video",
+            
+            {name: "kimcartoon",  url: "https://kisscartoon.nz/kisscartoon.html",  icon: "mickey",
+              icon_color: "#969696", },
+            
+
+
+            {name: "Freek🎬",  url: "https://freek.to/",   icon: "video",
               icon_color: "#130F10",},
-                        {name: "Noxx",  url: "https://noxx.to/",   icon: "pill",
+                 {name: "braflix",  url: "https://www.braflix.ru",   icon: "device-tv",
+              icon_color: "#554CA8",},
+                        {name: "Noxx📺",  url: "https://noxx.to/",   icon: "pill",
               icon_color: "#199F10",},
   
   
-            {name: "braflix",  url: "https://www.braflix.ru",   icon: "device-tv",
-              icon_color: "#554CA8",},
+       
                     {name: "IPTV",  url: "https://iptv-web.app/US/#WYFFDT1.us",   icon: "device-tv",
               icon_color: "#554CA8",},
-            {name: "netflix",  url: "https://www.netflix.com/",  icon: "brand-netflix",
-              icon_color: "#d75e40", },
+
             {name: "plex",  url: "https://app.plex.tv/desktop/#!/",  icon: "topology-complex",
               icon_color: "#ddb839", },
    
@@ -392,6 +397,21 @@ const default_config = {
               icon_color: "#fe6962",
             },
 
+
+            {
+              name: "cobalt,
+              url: "https://cobalt.tools/",
+              icon: "download",
+              icon_color: "#f24912",
+            },
+
+
+
+
+
+
+
+            
 
 
 
