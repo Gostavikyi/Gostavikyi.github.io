@@ -432,7 +432,7 @@ const default_config = {
               icon_color: "#ea6962",
             },
             {
-              name: "cobalt,
+              name: "cobalt",
               url: "https://cobalt.tools/",
               icon: "download",
               icon_color: "#f24912",
