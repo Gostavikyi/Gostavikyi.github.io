@@ -233,9 +233,9 @@ const default_config = {
             
 
 
-            {name: "freek",  url: "https://freek.to/",   icon: "video",
+            {name: "corsflix",  url: "https://corsflix.us.kg/",   icon: "video",
               icon_color: "#130F10",},
-                 {name: "braflix",  url: "https://www.braflix.ru",   icon: "device-tv",
+                 {name: "nunflix",  url: "https://nunflix.org/",   icon: "device-tv",
               icon_color: "#554CA8",},
                         {name: "Noxx",  url: "https://noxx.to/",   icon: "pill",
               icon_color: "#199F10",},
