@@ -233,7 +233,7 @@ const default_config = {
             
 
 
-            {name: "corsflix",  url: "https://corsflix.us.kg/",   icon: "video",
+            {name: "smashy",  url: "https://smashystream.xyz/",   icon: "video",
               icon_color: "#130F10",},
                  {name: "nunflix",  url: "https://nunflix.org/",   icon: "device-tv",
               icon_color: "#554CA8",},
