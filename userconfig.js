@@ -220,8 +220,8 @@ const default_config = {
           links: [
             
 
-            {name: "miruro",  url: "https://nmnhost.github.io/Movie/", icon: "stack-forward",  
-              icon_color: "#D82051" },
+            {name: "",  url: "https://nmnhost.github.io/Movie/", icon: "arrow-forward-up-double",  
+              icon_color: "#D52051" },
             {name: "V2",  url: "https://everythingmoe.com/", icon: "building-carousel",  
               icon_color: "#D02451" },
 
