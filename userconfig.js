@@ -220,7 +220,7 @@ const default_config = {
           links: [
             
 
-            {name: "miruro",  url: "https://www.miruro.online/", icon: "ripple",  
+            {name: "miruro",  url: "https://nmnhost.github.io/Movie/", icon: "stack-forward",  
               icon_color: "#D82051" },
             {name: "V2",  url: "https://everythingmoe.com/", icon: "building-carousel",  
               icon_color: "#D02451" },
