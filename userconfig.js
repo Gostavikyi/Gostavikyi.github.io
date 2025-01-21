@@ -27,7 +27,7 @@ const default_config = {
   },
   disabled: [],
   localIcons: false,
-  fastlink: "https://omnivore.app/home?q=in%3Ainbox+-label%3Ansfw",
+  fastlink: "https://rentry.org/vzght9na",
   openLastVisitedTab: true,
   tabs: [
     {
@@ -37,23 +37,13 @@ const default_config = {
         name: "Social Media",
         links: [
           {
-            name: "!tk",
-            url: "https://www.tiktok.com/",
-            icon: "brand-tiktok",
-            icon_color: "#a9b665",
-          },
-          {name: "p",  url: "https://www.tiktok.com/profile", },
-          {name: "v",  url: "https://www.tiktok.com/live?lang=en", },
-
-
-          {
             name: "!bs",
             url: "https://bsky.app/",
-            icon: "butterfly",
+           icon: "butterfly",
             icon_color: "#7daea3",
           },
-
-          
+          {name: "d",  url: "https://deck.blue/", },
+   
           {
             name: "!tw",
             url: "https://twitter.com/home",
@@ -65,7 +55,7 @@ const default_config = {
             name: "!sc",
             url: "https://web.snapchat.com",
             icon: "brand-snapchat",
-            icon_color: "#99858B",
+            icon_color: "#44858B",
           },
 
 
@@ -263,9 +253,9 @@ const default_config = {
           links: [
 
                  {
-              name: "",
-              url: "https://rentry.org/vzght9na",
-              icon: "notebook",
+              name: "itch.io",
+              url: "https://itch.io/games",
+              icon: "device-gamepad-3",
               icon_color: "#ea6962",
             },
             
