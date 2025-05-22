@@ -13,7 +13,6 @@ const default_config = {
   search: {
     engines: {
       g: ["https://google.com/search?q=", "Google"],
-      e: ["https://e621.net/posts?tags=", "E6"],
       y: ["https://youtube.com/results?search_query=", "Youtube"],
       r: ["https://www.reddit.com/search/?q=", "Reddit"],
       p: ["https://www.pinterest.es/search/pins/?q=", "Pinterest"],
@@ -27,7 +26,7 @@ const default_config = {
   },
   disabled: [],
   localIcons: false,
-  fastlink: "https://rentry.org/vzght9na",
+  fastlink: "https://raindrop.io/",
   openLastVisitedTab: true,
   tabs: [
     {
@@ -95,19 +94,20 @@ const default_config = {
 
         ],
       }, {
-        name: "chans",
+        name: "Games",
         links: [
          
-          {name: "/an/",  url: "https://boards.4chan.org/an/", },
-          {name: "/co/",  url: "https://boards.4chan.org/co/", },
-          {name: "/co/+",  url: "https://boards.plus4chan.org/co/", },
+          {name: "",  url: "https://rentry.org/dafqsy3g",icon: "dice-5", icon_color: "#ea1262",  },
+                   
 
-          {name: "/ck/",  url: "https://boards.4chan.org/ck/", },
-          {name: "/v/",  url: "https://boards.4chan.org/m/", },
-          {name: "/tv/",  url: "https://boards.4chan.org/an/", },
-          {name: "/wg/",  url: "https://boards.4chan.org/wg/", },
-          {name: "/wsg/",  url: "https://boards.4chan.org/wsg/", },
+            {name: "steamdb",  url: "https://steamdb.info/",  icon: "brand-steam", icon_color: "#777674", },
+   
+            {name: "steamchart",  url: "https://steamcharts.com/",  icon: "brand-steam", icon_color: "#546B54", },
 
+            {name: "prime stuff",  url: "https://gaming.amazon.com/home",  icon: "ironing-steam", icon_color: "#796A3B", },
+            {name: "itch.io", url: "https://itch.io/games", icon: "device-gamepad-3", icon_color: "#ea6962", },
+            
+            
 
         ],
       }, {
@@ -252,21 +252,14 @@ const default_config = {
           name: "Games",
           links: [
 
-                 {
-              name: "itch.io",
-              url: "https://itch.io/games",
-              icon: "device-gamepad-3",
-              icon_color: "#ea6962",
-            },
+                 
+            {name: "itch.io", url: "https://itch.io/games", icon: "device-gamepad-3", icon_color: "#ea6962", },
             
-            {name: "steamdb",  url: "https://steamdb.info/",  icon: "brand-steam",
-              icon_color: "#777674", },
+            {name: "steamdb",  url: "https://steamdb.info/",  icon: "brand-steam", icon_color: "#777674", },
    
-              {name: "steamchart",  url: "https://steamcharts.com/",  icon: "brand-steam",
-                icon_color: "#546B54", },
+            {name: "steamchart",  url: "https://steamcharts.com/",  icon: "brand-steam", icon_color: "#546B54", },
 
-                {name: "prime stuff",  url: "https://gaming.amazon.com/home",  icon: "ironing-steam",
-                  icon_color: "#796A3B", },
+            {name: "prime stuff",  url: "https://gaming.amazon.com/home",  icon: "ironing-steam", icon_color: "#796A3B", },
      
             
 
@@ -418,6 +411,17 @@ const default_config = {
               icon_color: "#f24912",
             },
 
+
+      {
+              name: "",
+              url: "https://rentry.org/vzght9na",
+              icon: "settings-bolt",
+              icon_color: "#f24912",
+            },
+
+
+
+            
 
 
           ],
