@@ -206,25 +206,20 @@ const default_config = {
           ],
         },
         {
-          name: "Streams",
+          name: "Animation",
           links: [
             
 
-            {name: "",  url: "https://nmnhost.github.io/Movie/", icon: "arrow-forward-up-double",  
-              icon_color: "#D52051" },
-            {name: "V2",  url: "https://everythingmoe.com/", icon: "building-carousel",  
+            {name: "aniomni",  url: "https://everythingmoe.com/", icon: "building-carousel",  
               icon_color: "#D02451" },
 
-            {name: "krimcartoon",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
+            {name: "Kim",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
               icon_color: "#969696", },
             
-            {name: "kimcartoon",  url: "https://kisscartoon.nz/kisscartoon.html",  icon: "mickey",
+            {name: "kiss",  url: "https://kisscartoon.nz/kisscartoon.html",  icon: "mickey",
               icon_color: "#969696", },
             
 
-
-            {name: "smashy",  url: "https://smashystream.xyz/",   icon: "video",
-              icon_color: "#130F10",},
                  {name: "nunflix",  url: "https://nunflix.org/",   icon: "device-tv",
               icon_color: "#554CA8",},
                         {name: "Noxx",  url: "https://noxx.to/",   icon: "pill",
@@ -233,8 +228,6 @@ const default_config = {
             {name: "IPTV",  url: "https://iptv-web.app/US/#WYFFDT1.us",   icon: "device-tv",
               icon_color: "#554CA8",},
 
-            {name: "plex",  url: "https://app.plex.tv/desktop/#!/",  icon: "topology-complex",
-              icon_color: "#ddb839", },
    
 
 
@@ -245,23 +238,20 @@ const default_config = {
       ],
     },
     {
-      name: "Other",
+      name: "Live",
       background_url: "src/img/banners/cbg-7.gif",
       categories: [
         {
-          name: "Games",
+          name: "Vacancy",
           links: [
 
-                 
-            {name: "itch.io", url: "https://itch.io/games", icon: "device-gamepad-3", icon_color: "#ea6962", },
+  
+            {name: "",  url: "https://nmnhost.github.io/Movie/", icon: "arrow-forward-up-double",  icon_color: "#D52051" },
+            {name: "Ill probably remake the upper parts and readd the delete the other site ", url: "https://youtu.be/q9BtYEnrkg4", icon: "device-gamepad-3", icon_color: "#ea6962", },
             
-            {name: "steamdb",  url: "https://steamdb.info/",  icon: "brand-steam", icon_color: "#777674", },
-   
-            {name: "steamchart",  url: "https://steamcharts.com/",  icon: "brand-steam", icon_color: "#546B54", },
+         
 
-            {name: "prime stuff",  url: "https://gaming.amazon.com/home",  icon: "ironing-steam", icon_color: "#796A3B", },
-     
-            
+
 
           ],
         },
