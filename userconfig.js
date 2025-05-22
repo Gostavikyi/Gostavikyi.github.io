@@ -246,8 +246,8 @@ const default_config = {
           links: [
 
   
-            {name: "",  url: "https://nmnhost.github.io/Movie/", icon: "arrow-forward-up-double",  icon_color: "#D52051" },
-            {name: "Ill probably remake the upper parts and readd the delete the other site ", url: "https://youtu.be/q9BtYEnrkg4", icon: "device-gamepad-3", icon_color: "#ea6962", },
+            {name: "",  url: "https://nmnhost.github.io/Movie/", icon: "movie",  icon_color: "#D52051" },
+            {name: "WIP Coming ", url: "https://youtu.be/q9BtYEnrkg4", icon: "device-gamepad-3", icon_color: "#ea6962", },
             
          
 
