@@ -208,27 +208,20 @@ const default_config = {
         {
           name: "Animation",
           links: [
+            {name: "hicartoon",  url: "https://hicartoon.to/home",  icon: "brand-radix-ui",
+              icon_color: "#2daea3", },
             
-
-            {name: "aniomni",  url: "https://everythingmoe.com/", icon: "building-carousel",  
+            {name: "kimcartoon",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
+              icon_color: "#969696", },
+            
+         
+            {name: "everythingmoe",  url: "https://everythingmoe.com/", icon: "building-carousel",  
               icon_color: "#D02451" },
 
-            {name: "Kim",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
-              icon_color: "#969696", },
-            
-            {name: "kiss",  url: "https://kisscartoon.nz/kisscartoon.html",  icon: "mickey",
-              icon_color: "#969696", },
-            
+            {name: "miruro",  url: "https://www.miruro.online/", icon: "michelin-star",  
+              icon_color: "#D02451" },
 
-                 {name: "nunflix",  url: "https://nunflix.org/",   icon: "device-tv",
-              icon_color: "#554CA8",},
-                        {name: "Noxx",  url: "https://noxx.to/",   icon: "pill",
-              icon_color: "#199F10",},
-       
-            {name: "IPTV",  url: "https://iptv-web.app/US/#WYFFDT1.us",   icon: "device-tv",
-              icon_color: "#554CA8",},
-
-   
+  
 
 
 
@@ -238,18 +231,30 @@ const default_config = {
       ],
     },
     {
-      name: "Live",
+      name: "Life",
       background_url: "src/img/banners/cbg-7.gif",
       categories: [
         {
-          name: "Vacancy",
+          name: "Movie/Tv",
           links: [
 
   
             {name: "",  url: "https://nmnhost.github.io/Movie/", icon: "movie",  icon_color: "#D52051" },
-            {name: "WIP Coming ", url: "https://youtu.be/q9BtYEnrkg4", icon: "device-gamepad-3", icon_color: "#ea6962", },
-            
-         
+            {name: "hydra ", url: "https://hydrahd.sh/", icon: "ripple", icon_color: "#ea6962", },
+            {
+              name: "cinego",
+              url: "https://cinego.co/home/",
+              icon: "photo-video",
+              icon_color: "#7daea3",
+            },
+
+               {
+              name: "ihavenotv",
+              url: "https://ihavenotv.com/",
+              icon: "antenna",
+              icon_color: "#7daea3",
+            },
+   
 
 
 
