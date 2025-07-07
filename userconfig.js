@@ -97,7 +97,7 @@ const default_config = {
         name: "Games",
         links: [
          
-          {name: "",  url: "https://rentry.org/dafqsy3g",icon: "dice-5", icon_color: "#ea1262",  },
+          {name: "",  url: "https://rentry.org/4yeg5hqc",icon: "dice-5", icon_color: "#ea1262",  },
                    
 
             {name: "steamdb",  url: "https://steamdb.info/",  icon: "brand-steam", icon_color: "#777674", },
