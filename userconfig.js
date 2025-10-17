@@ -241,10 +241,14 @@ const default_config = {
   
             {name: "",  url: "https://nmnhost.github.io/Movie/", icon: "movie",  icon_color: "#D52051" },
             {name: "hydra ", url: "https://hydrahd.sh/", icon: "ripple", icon_color: "#ea6962", },
+
+            {name: "flixer ", url: "https://flixer.sh/", icon: "brand-netflix", icon_color: "#fa3962", },
+
+            
             {
               name: "cinego",
               url: "https://cinego.co/home/",
-              icon: "photo-video",
+              icon: "accessible",
               icon_color: "#7daea3",
             },
 
@@ -252,7 +256,7 @@ const default_config = {
               name: "ihavenotv",
               url: "https://ihavenotv.com/",
               icon: "antenna",
-              icon_color: "#7daea3",
+              icon_color: "#2jaea3",
             },
    
 
