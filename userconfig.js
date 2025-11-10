@@ -50,13 +50,7 @@ const default_config = {
             icon_color: "#7daea3",
           },
 
-         {
-            name: "!sc",
-            url: "https://web.snapchat.com",
-            icon: "brand-snapchat",
-            icon_color: "#44858B",
-          },
-
+  
 
           {
             name: "!ig",
@@ -153,12 +147,6 @@ const default_config = {
 
 
             {
-              name: "krea ai",
-              url: "https://www.krea.ai/apps/image/realtime",
-              icon: "brand-openai",
-              icon_color: "#89b482",
-            },
-            {
               name: "saucenao",
               url: "https://saucenao.com/",
               icon: "eye-pin",
@@ -208,6 +196,8 @@ const default_config = {
         {
           name: "Animation",
           links: [
+
+            
             {name: "hicartoon",  url: "https://hicartoon.to/home",  icon: "brand-radix-ui",
               icon_color: "#2daea3", },
             
@@ -240,7 +230,7 @@ const default_config = {
 
   
             {name: "",  url: "https://nmnhost.github.io/Movie/", icon: "movie",  icon_color: "#D52051" },
-            {name: "hydra ", url: "https://hydrahd.sh/", icon: "ripple", icon_color: "#ea6962", },
+            {name: "hydra ", url: "https://hydrahd.ru/", icon: "ripple", icon_color: "#ea6962", },
 
             {name: "flixer ", url: "https://flixer.sh/", icon: "brand-netflix", icon_color: "#fa3962", },
 
@@ -265,58 +255,41 @@ const default_config = {
           ],
         },
         {
-          name: "resources",
+          name: "Animation",
           links: [
-
-                  {name: "Fmhy",  url: "https://fmhy.net/",  icon: "sword",
-              icon_color: "#ddb839", },
+   {name: "hicartoon",  url: "https://hicartoon.to/home",  icon: "brand-radix-ui",
+              icon_color: "#2daea3", },
             
-            {name: "",  url: "https://www.reddit.com/r/Piracy/wiki/megathread/",  icon: "align-left",
-              icon_color: "#ddb839", },
-   
-   
-            {
-              name: "github",
-              url: "https://github.com/",
-              icon: "brand-github",
-              icon_color: "#7daea3",
-            },
-     
+            {name: "kimcartoon",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
+              icon_color: "#969696", },
+            
+         
+            {name: "everythingmoe",  url: "https://everythingmoe.com/", icon: "building-carousel",  
+              icon_color: "#D02451" },
+
+            {name: "miruro",  url: "https://www.miruro.online/", icon: "michelin-star",  
+              icon_color: "#D02451" },
+
+
 
             
      
           ],
         },
         {
-          name: "Other",
+          name: "Resources",
           links: [
-
-            {
-              name: "colorhunt",
-              url: "https://colorhunt.co/",
-              icon: "color-picker",
-              icon_color: "#ea6962",
-            },
-
-            {
-              name: "tmlsxy",
-              url: "https://terminal.sexy",
-              icon: "prompt",
-              icon_color: "#e78a4e",
-            },
-
-            {
+           {name: "Fmhy",  url: "https://fmhy.net/",  icon: "sword",
+              icon_color: "#ddb839", },
+            
+            {name: "",  url: "https://www.reddit.com/r/Piracy/wiki/megathread/",  icon: "align-left",
+              icon_color: "#ddb839", },
+   
+                 {
               name: "Tabler",
               url: "https://tabler.io/icons",
               icon: "icons",
               icon_color: "#e78a4e",
-            },
-
-            {
-              name: "thingi",
-              url: "https://www.thingiverse.com/",
-              icon: "circle-letter-t",
-              icon_color: "#7daea3",
             },
 
 
@@ -327,7 +300,14 @@ const default_config = {
               icon_color: "#7daea3",
             },
 
+            {
+              name: "colorhunt",
+              url: "https://colorhunt.co/",
+              icon: "color-picker",
+              icon_color: "#ea6962",
+            },
 
+     
 
 
           ],
