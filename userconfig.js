@@ -50,7 +50,13 @@ const default_config = {
             icon_color: "#7daea3",
           },
 
-  
+     {
+            name: "!tk",
+            url: "https://www.tiktok.com/",
+            icon: "brand-tiktok",
+            icon_color: "#99858B",
+          },
+
 
           {
             name: "!ig",
