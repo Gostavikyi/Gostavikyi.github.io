@@ -237,19 +237,19 @@ const default_config = {
   
             {name: "",  url: "https://nmnhost.github.io/Movie/", icon: "movie",  icon_color: "#D52051" },
             
-
-            {name: "filmex ", url: "https://filmex.to", icon: "brand-netflix", icon_color: "#fa3962", },
-
-            {name: "loredflix ", url: "https://lordflix.club/", icon: "brand-netflix", icon_color: "#fa3962", },
-            
-{name: "hydra ", url: "https://hydrahd.ru/", icon: "ripple", icon_color: "#ea6962", },
-            
-            {
-              name: "aether",
+           {
+              name: "Aether",
               url: "https://aether.mom",
               icon: "accessible",
               icon_color: "#7daea3",
             },
+            
+
+            {name: "Yflix ", url: "https://yflix.to/home", icon: "brand-netflix", icon_color: "#fa3962", },
+            
+{name: "hydra ", url: "https://hydrahd.ru/", icon: "ripple", icon_color: "#ea6962", },
+            
+           
 
                {
               name: "ihavenotv",
