@@ -20,14 +20,21 @@ const default_config = {
      
     },
   },
+
+  
   keybindings: {
     "s": "search-bar",
     "q": "config-tab",
   },
+
   disabled: [],
   localIcons: false,
-  fastlink: "https://raindrop.io/",
+  fastlink: "https://www.ecosia.org/ai-chat",
   openLastVisitedTab: true,
+
+
+
+  
   tabs: [
     {
       name: "HOME",
@@ -36,57 +43,36 @@ const default_config = {
         name: "Social Media",
         links: [
           {
-            name: "!bs",
+            name: "Bsky",
             url: "https://bsky.app/",
            icon: "butterfly",
             icon_color: "#7daea3",
           },
+          
           {name: "d",  url: "https://deck.blue/", },
    
           {
-            name: "!tw",
+            name: "Tw",
             url: "https://twitter.com/home",
             icon: "brand-twitter-filled",
             icon_color: "#7daea3",
           },
 
-     {
-            name: "!tk",
-            url: "https://www.tiktok.com/",
-            icon: "brand-tiktok",
-            icon_color: "#99858B",
-          },
-
 
           {
-            name: "!ig",
-            url: "https://www.instagram.com/",
-            icon: "brand-instagram",
-            icon_color: "#99858B",
-          },
-
-
-          {
-            name: "!re",
+            name: "RE",
             url: "https://www.reddit.com/",
             icon: "brand-reddit",
             icon_color: "#e78a4e",
           },
 
-          
-          {
-            name: "!yt",
-            url: "https://www.youtube.com/",
-            icon: "brand-youtube-filled",
-            icon_color: "#ea6962",
-          },
-          {
-            name: "!ttv",
-            url: "https://www.twitch.tv/",
-            icon: "brand-twitch",
-            icon_color: "#d3869b",
-          },
 
+           {
+              name: "TU",
+              url: "https://www.tumblr.com/",
+              icon: "brand-tumblr",
+              icon_color: "#ea6962",
+            },
 
         
 
@@ -94,12 +80,52 @@ const default_config = {
 
         ],
       }, {
+        name: "Videos",
+        links: [
+
+          
+          {
+            name: "YT",
+            url: "https://www.youtube.com/",
+            icon: "brand-youtube-filled",
+            icon_color: "#ea6962",
+          },
+
+          
+          {
+            name: "TTV",
+            url: "https://www.twitch.tv/",
+            icon: "brand-twitch",
+            icon_color: "#d3869b",
+          },
+
+          
+         {
+            name: "TK",
+            url: "https://www.tiktok.com/",
+            icon: "brand-tiktok",
+            icon_color: "#99858B",
+          },
+
+
+          {
+            name: "IG",
+            url: "https://www.instagram.com/",
+            icon: "brand-instagram",
+            icon_color: "#99858B",
+          },
+
+
+          
+
+        ],
+      }, {
         name: "Games",
         links: [
+  
          
-          {name: "",  url: "https://rentry.org/4yeg5hqc",icon: "dice-5", icon_color: "#ea1262",  },
+            {name: "",  url: "https://rentry.org/4yeg5hqc",icon: "dice-5", icon_color: "#ea1262",  },
                    
-
             {name: "steamdb",  url: "https://steamdb.info/",  icon: "brand-steam", icon_color: "#777674", },
    
             {name: "steamchart",  url: "https://steamcharts.com/",  icon: "brand-steam", icon_color: "#546B54", },
@@ -107,19 +133,11 @@ const default_config = {
             {name: "prime stuff",  url: "https://gaming.amazon.com/home",  icon: "ironing-steam", icon_color: "#796A3B", },
             {name: "itch.io", url: "https://itch.io/games", icon: "device-gamepad-3", icon_color: "#ea6962", },
             
-            
 
-        ],
-      }, {
-        name: "Ai✨",
-        links: [
-          {
-            name: "Ecos.ai - Client",
-            url: "https://www.ecosia.org/chat?addon=firefox&addonversion=4.1.2&q=s",
-            icon: "plant-2",
-            icon_color: "#7daea3",
-          },
-       
+
+
+
+          
         ],
       }],
     },
@@ -128,29 +146,27 @@ const default_config = {
       background_url: "src/img/banners/cbg-6.gif",
       categories: [
         {
-          name: "Media",
-          links: [
-            {
-              name: "tumblr",
-              url: "https://www.tumblr.com/",
-              icon: "brand-tumblr",
-              icon_color: "#ea6962",
+          name: "Art",
+          links: [ 
+           {
+              name: "cara",
+              url: "https://cara.app/",
+              icon: "brand-craft",
+              icon_color: "#7daea3",
             },
+                    {
+              name: "magma",
+              url: "https://magma.com/",
+              icon: "brand-craft",
+              icon_color: "#7daea3",
+            },
+            
             {
               name: "artstation",
               url: "https://www.artstation.com/?sort_by=community",
               icon: "chart-area",
               icon_color: "#7daea3",
             },
-
-            {
-              name: "cara",
-              url: "https://cara.app/",
-              icon: "brand-craft",
-              icon_color: "#7daea3",
-            },
-
-
 
             {
               name: "saucenao",
@@ -160,17 +176,18 @@ const default_config = {
             },
        
 
-          ],
-        },
-        {
+          ],},{
+
+
           name: "Music",
           links: [
-            {
-              name: "spotify",
-              url: "https://open.spotify.com/",
-              icon: "brand-spotify",
-              icon_color: "#63b467",
+  {
+              name: "beatbox",
+              url: "https://choptop84.github.io/abyssbox-app/",
+              icon: "brand-adobe",
+              icon_color: "#7daea3",
             },
+            
             {
               name: "soundcloud",
               url: "https://soundcloud.com/",
@@ -197,27 +214,26 @@ const default_config = {
               icon_color: "#2daea3",
             },
 
-          ],
-        },
-        {
+          ],},{
+        
+        
+
+
+          
           name: "Animation",
           links: [
 
             
-            {name: "hicartoon",  url: "https://hicartoon.to/home",  icon: "brand-radix-ui",
-              icon_color: "#2daea3", },
-            
             {name: "kimcartoon",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
               icon_color: "#969696", },
-            
-         
-            {name: "everythingmoe",  url: "https://everythingmoe.com/", icon: "building-carousel",  
-              icon_color: "#D02451" },
-
+            {name: "hicartoon",  url: "https://hicartoon.to/home",  icon: "brand-radix-ui",
+              icon_color: "#2daea3", },
             {name: "miruro",  url: "https://www.miruro.online/", icon: "michelin-star",  
               icon_color: "#D02451" },
-
-  
+            {name: "wholepile",  url: "https://piratexplay.cc/category/ongoing/",  icon: "brand-radix-ui",
+              icon_color: "#2daea3", },            
+            {name: "everythingmoe",  url: "https://everythingmoe.com/", icon: "building-carousel",  
+              icon_color: "#D02451" },
 
 
 
@@ -236,24 +252,25 @@ const default_config = {
 
   
             {name: "",  url: "https://nmnhost.github.io/Movie/", icon: "movie",  icon_color: "#D52051" },
-            
-           {
-              name: "Aether",
-              url: "https://aether.mom",
+            {name: "hydra ", url: "https://hydrahd.ru/", icon: "ripple", icon_color: "#ea6962", },
+           
+            {
+              name: "coreflix",
+              url: "https://coreflix.tv/",
               icon: "accessible",
               icon_color: "#7daea3",
             },
+
+
+            {name: "Way2Movie ", url: "https://way2movies.live/", icon: "brand-netflix", icon_color: "#fa3962", },
             
 
-            {name: "Yflix ", url: "https://yflix.to/home", icon: "brand-netflix", icon_color: "#fa3962", },
-            
-{name: "hydra ", url: "https://hydrahd.ru/", icon: "ripple", icon_color: "#ea6962", },
             
            
 
                {
-              name: "ihavenotv",
-              url: "https://ihavenotv.com/",
+              name: "zetmoon",
+              url: "https://zetmoon.live",
               icon: "antenna",
               icon_color: "#2jaea3",
             },
@@ -264,22 +281,18 @@ const default_config = {
           ],
         },
         {
-          name: "Animation",
+          name: "Webring",
           links: [
-   {name: "hicartoon",  url: "https://hicartoon.to/home",  icon: "brand-radix-ui",
-              icon_color: "#2daea3", },
+
+            {name: "Fmhy",  url: "https://fmhy.net/",  icon: "sword",
+              icon_color: "#ddc839", },
             
-            {name: "kimcartoon",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
-              icon_color: "#969696", },
-            
-         
-            {name: "everythingmoe",  url: "https://everythingmoe.com/", icon: "building-carousel",  
-              icon_color: "#D02451" },
-
-            {name: "miruro",  url: "https://www.miruro.online/", icon: "michelin-star",  
-              icon_color: "#D02451" },
-
-
+            {name: "",  url: "https://www.reddit.com/r/Piracy/wiki/megathread/",  icon: "align-left",
+              icon_color: "#ddb839", },
+   
+            {name: "Indie Webrings",  url: "https://petrapixel.neocities.org/indiewebdb/webrings",  icon: "sitemap",
+              icon_color: "#dda839", },
+   
 
             
      
@@ -288,20 +301,30 @@ const default_config = {
         {
           name: "Resources",
           links: [
-           {name: "Fmhy",  url: "https://fmhy.net/",  icon: "sword",
-              icon_color: "#ddb839", },
+
+
             
-            {name: "",  url: "https://www.reddit.com/r/Piracy/wiki/megathread/",  icon: "align-left",
-              icon_color: "#ddb839", },
-   
-                 {
-              name: "Tabler",
+           {
+              name: "photopea",
+              url: "https://www.photopea.com/",
+              icon: "brand-adobe-photoshop",
+              icon_color: "#e78a4e",
+            },
+
+            {
+              name: "tabler",
               url: "https://tabler.io/icons",
               icon: "icons",
               icon_color: "#e78a4e",
             },
 
-
+            {
+              name: "fonts",
+              url: "https://www.freefonts.io/",
+              icon: "icons",
+              icon_color: "#f78a4e",
+            },
+     
             {
               name: "sketchfab",
               url: "https://sketchfab.com/",
@@ -332,7 +355,7 @@ const default_config = {
           links: [
             {
               name: "gmail",
-              url: "https://mail.google.com/mail/u/0/",
+              url: "https://mail.google.com/mail/u/0/" ,
               icon: "brand-gmail",
               icon_color: "#ea6962",
             },
