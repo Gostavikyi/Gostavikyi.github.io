@@ -50,31 +50,18 @@ const default_config = {
           },
           
           {name: "d",  url: "https://deck.blue/", },
-   
           {
-            name: "Tw",
-            url: "https://twitter.com/home",
-            icon: "brand-twitter-filled",
-            icon_color: "#7daea3",
-          },
-
-
-          {
-            name: "RE",
-            url: "https://www.reddit.com/",
-            icon: "brand-reddit",
-            icon_color: "#e78a4e",
-          },
-
-
-           {
-              name: "TU",
+              name: "Tumblr",
               url: "https://www.tumblr.com/",
               icon: "brand-tumblr",
               icon_color: "#ea6962",
             },
-
-        
+          {
+            name: "Twitter",
+            url: "https://twitter.com/home",
+            icon: "brand-twitter-filled",
+            icon_color: "#7daea3",
+          },
 
 
 
@@ -92,14 +79,6 @@ const default_config = {
           },
 
           
-          {
-            name: "TTV",
-            url: "https://www.twitch.tv/",
-            icon: "brand-twitch",
-            icon_color: "#d3869b",
-          },
-
-          
          {
             name: "TK",
             url: "https://www.tiktok.com/",
@@ -108,12 +87,7 @@ const default_config = {
           },
 
 
-          {
-            name: "IG",
-            url: "https://www.instagram.com/",
-            icon: "brand-instagram",
-            icon_color: "#99858B",
-          },
+
 
 
           
@@ -224,10 +198,7 @@ const default_config = {
           links: [
 
             
-            {name: "kimcartoon",  url: "https://kimcartoon.si/kimcartoon.me",  icon: "mickey",
-              icon_color: "#969696", },
-            {name: "hicartoon",  url: "https://hicartoon.to/home",  icon: "brand-radix-ui",
-              icon_color: "#2daea3", },
+   
             {name: "miruro",  url: "https://www.miruro.online/", icon: "michelin-star",  
               icon_color: "#D02451" },
             {name: "wholepile",  url: "https://piratexplay.cc/category/ongoing/",  icon: "brand-radix-ui",
@@ -251,9 +222,17 @@ const default_config = {
           links: [
 
   
-            {name: "",  url: "https://nmnhost.github.io/Movie/", icon: "movie",  icon_color: "#D52051" },
-            {name: "hydra ", url: "https://hydrahd.ru/", icon: "ripple", icon_color: "#ea6962", },
-           
+            {name: "Movie Night",  url: "https://nmnhost.github.io/Movie/", icon: "movie",  icon_color: "#D52051" },
+      {name: "",  url: "https://rentry.org/2q8mgx43", icon: "movie",  icon_color: "#D52051" },
+            
+            {name: "hydra ", url: "https://hydrahd.ws/", icon: "ripple", icon_color: "#ea6962", },
+                  {
+              name: "zetmoon",
+              url: "https://zetmoon.live",
+              icon: "antenna",
+              icon_color: "#2jaea3",
+            },
+   
             {
               name: "coreflix",
               url: "https://coreflix.tv/",
@@ -268,13 +247,7 @@ const default_config = {
             
            
 
-               {
-              name: "zetmoon",
-              url: "https://zetmoon.live",
-              icon: "antenna",
-              icon_color: "#2jaea3",
-            },
-   
+        
 
 
 
